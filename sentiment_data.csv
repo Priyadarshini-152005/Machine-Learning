@@ -1,0 +1,11 @@
+text,sentiment
+I like this product!,positive
+This is the best day of my life!,positive
+I am very happy with the service.,positive
+The food was amazing and the staff were friendly.,positive
+Absolutely fantastic experience!,positive
+I hate this so much.,negative
+This is the worst service ever.,negative
+I'm very disappointed.,negative
+Terrible quality and rude staff.,negative
+I will never buy from here again.,negative
